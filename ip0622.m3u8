@@ -81,6 +81,8 @@ http://117.169.119.199:8080/live/xiqumd/index.m3u8
 http://117.169.119.199:8080/live/junshipl/index.m3u8
 #EXTINF:-1 ,广东影视
 http://10.1.1.1:10245/rtp/239.11.0.79:1025
+#EXTINF:-1 ,广东南方卫视
+http://10.1.1.1:10245/rtp/239.11.0.78:1025
 #EXTINF:-1 ,NEW广东
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
 #EXTINF:-1 ,爱谍战
@@ -288,5 +290,7 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 ,广东卫视
 http://10.1.1.1:10245/rtp/239.10.0.45:1025
-#EXTINF:-1 ,广东体育
+#EXTINF:-1 ,广东体育（超清）
 http://10.1.1.1:10245/rtp/239.10.0.47:1025
+#EXTINF:-1 ,广东体育（高清）
+http://10.1.1.1:10245/rtp/239.10.0.113:1025
