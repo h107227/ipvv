@@ -1,4 +1,14 @@
 ﻿#EXTM3U
+ #EXTINF:-1 ,广东体育(超清)
+http://10.1.1.1:10245/udp/239.10.0.47:1025
+#EXTINF:-1 ,广东体育
+http://10.1.1.1:10245/udp/239.10.0.113:1025
+#EXTINF:-1 ,广东珠江（高清）
+http://10.1.1.1:10245/rtp/239.10.0.62:1025
+#EXTINF:-1 ,广东珠江（超清）
+http://10.1.1.1:10245/udp/239.10.0.63:1025
+#EXTINF:-1 ,广东公共
+http://10.1.1.1:10245/rtp/239.11.0.80:1025
 #EXTINF:-1 ,CCTV-3
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 ,CCTV-5+
@@ -9,6 +19,10 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1 ,CCTV-15
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 ,CCTV5(移动)
+http://10.1.1.1:10245/rtp/239.10.0.102:1025
+#EXTINF:-1 ,CCTV5
+rtmp://58.200.131.2:1935/livetv/cctv5hd
 #EXTINF:-1 ,凤凰卫视
 http://117.169.120.138:8080/live/fhchinese/index.m3u8
 #EXTINF:-1 ,爱上4K频道
@@ -53,16 +67,10 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 ,广东珠江4K
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,广东珠江（高清）
-http://10.1.1.1:10245/rtp/239.10.0.62:1025
-#EXTINF:-1 ,广东珠江（超清）
-http://10.1.1.1:10245/rtp/239.10.0.63:1025
 #EXTINF:-1 ,精彩电影4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 ,NewTV超级体育FHD
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 ,广东公共
-http://10.1.1.1:10245/rtp/239.11.0.80:1025
 #EXTINF:-1 ,NewTV动作电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 ,NewTV海外剧场
@@ -174,10 +182,6 @@ https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 ,Fox Sport2
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 ,CCTV5
-http://10.1.1.1:10245/rtp/239.10.0.102:1025
-#EXTINF:-1 ,日本全天新聞
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 ,咪咕-高清赛事1
 http://10.1.1.1:10245/rtp/239.10.0.87:1025
 #EXTINF:-1 ,咪咕-高清赛事2
@@ -206,16 +210,10 @@ http://seb.sason.top/sc/sllive_fhd.m3u8
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 ,民视新聞台
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 ,寰宇新闻
-http://seb.sason.top/sc/hyxw.m3u8
 #EXTINF:-1 ,華视新聞資訊
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 ,東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u
-#EXTINF:-1 ,广东珠江（高清）
-http://10.1.1.1:10245/rtp/239.10.0.62:1025
-#EXTINF:-1 ,广东珠江（超清）
-http://10.1.1.1:10245/udp/239.10.0.63:1025
 #EXTINF:-1 ,Canal Macau
 http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 ,TVB
@@ -228,7 +226,3 @@ http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 ,广东卫视
 http://10.1.1.1:10245/rtp/239.10.0.45:1025
-#EXTINF:-1 ,广东体育(超清)
-http://10.1.1.1:10245/udp/239.10.0.47:1025
-#EXTINF:-1 ,广东体育
-http://10.1.1.1:10245/udp/239.10.0.113:1025
