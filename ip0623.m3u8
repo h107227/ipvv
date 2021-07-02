@@ -211,8 +211,8 @@ http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 ,港台電視31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 ,亞美衛視
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 ,ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 ,亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 ,广东卫视
