@@ -117,8 +117,8 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 ,香港卫视文旅
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1 ,港台电视31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 ,tvb新闻
+https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 ,港台电视32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 ,凤凰香港
