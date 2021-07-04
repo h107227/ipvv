@@ -91,22 +91,6 @@ http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 ,江苏影视
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
-http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 ,NewTV超级电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225623/index.m3u8
-#EXTINF:-1 ,NewTV超级电影
-http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
-#EXTINF:-1 ,NewTV金牌综艺
-http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
-#EXTINF:-1 ,SiTV欢笑剧场
-http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 ,SiTV都市剧场
-http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 ,凤凰中文台
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 ,凤凰电影
@@ -125,16 +109,10 @@ http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8?epg=cntv-cctv5?回�
 http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8?epg=cntv-cctv6?回看=http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8
 #EXTINF:-1 ,精彩电视
 http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8?epg=cntv-cctv8?回看=http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8
-#EXTINF:-1 ,精彩综艺
-http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8?epg=cntv-cctv3?回看=http://39.134.24.193/PLTV/88888888/224/3221225807/index.m3u8
+#EXTINF:-1 ,香港开电视
+https://cdn.hkdtmb.com/hls/77/index.m3u8
 #EXTINF:-1 ,TVB 星河台 Xing He
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 ,ViuTV (备)
-http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 ,ViuTVsix
-http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 ,港台電視32
-http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
 #EXTINF:-1 ,香港C+
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 #EXTINF:-1 ,香港卫视文旅
@@ -143,10 +121,6 @@ https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 ,港台电视32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 ,港台電視32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 ,港视32台
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 #EXTINF:-1 ,凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 ,澳視衛視
@@ -205,8 +179,8 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 http://seb.sason.top/sc/hsxw_fhd.m3u8
 #EXTINF:-1 ,東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u
-#EXTINF:-1 ,Canal Macau
-http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 ,J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 ,TVB
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 ,港台電視31
