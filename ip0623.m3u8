@@ -19,12 +19,8 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1 ,CCTV-15
 http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 ,CCTV5(移动)
-http://10.1.1.1:10245/rtp/239.10.0.102:1025
 #EXTINF:-1 ,CCTV5
-rtmp://58.200.131.2:1935/livetv/cctv5hd
-#EXTINF:-1 ,凤凰卫视
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
+http://10.1.1.1:10245/rtp/239.10.0.102:1025
 #EXTINF:-1 ,爱上4K频道
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,北京卫视
@@ -39,14 +35,8 @@ http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 ,江苏卫视（超清）
 http://10.1.1.1:10245/rtp/239.10.0.51:1025
-#EXTINF:-1 ,东南卫视
-http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
-#EXTINF:-1 ,东南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 ,湖南卫视
 http://10.1.1.1:10245/rtp/239.10.0.49:1025
-#EXTINF:-1 ,安徽卫视1
-http://39.134.66.66/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 ,广东卫视
 http://39.134.66.66/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 ,深圳卫视
@@ -83,12 +73,6 @@ http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e0
 http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
 #EXTINF:-1 ,高台电视台
 http://117.156.28.119/270000001111/1110000146/index.m3u8
-#EXTINF:-1 ,江苏体育休闲
-http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
-#EXTINF:-1 ,江苏综艺
-http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
-#EXTINF:-1 ,江苏教育
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1 ,江苏影视
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 ,凤凰中文台
@@ -105,24 +89,12 @@ http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
 http://117.169.120.138:8080/live/fhchinese/.m3u8
 #EXTINF:-1 ,精彩体育
 http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8?epg=cntv-cctv5?回看=http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8
-#EXTINF:-1 ,精彩电影
-http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8?epg=cntv-cctv6?回看=http://39.134.24.193/PLTV/88888888/224/3221225811/index.m3u8
-#EXTINF:-1 ,精彩电视
-http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8?epg=cntv-cctv8?回看=http://39.134.24.193/PLTV/88888888/224/3221225813/index.m3u8
 #EXTINF:-1 ,香港开电视
 https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 ,TVB 星河台 Xing He
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1 ,香港C+
-http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 ,香港卫视文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1 ,tvb新闻
 https://cdn.hkdtmb.com/hls/83/index.m3u8
 #EXTINF:-1 ,港台电视32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 ,凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 #EXTINF:-1 ,澳視衛視
 http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 ,澳视澳门
@@ -169,10 +141,8 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 ,台视新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 ,三立Live新聞
+#EXTINF:-1 ,三立新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 ,三立iNews
-http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 ,民视新聞台
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 ,華视新聞資訊
