@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 ,广东体育(超清)
 http://10.1.1.1:10245/rtp/239.10.0.47:1025
 #EXTINF:-1 ,广东体育
@@ -9,114 +9,66 @@ http://10.1.1.1:10245/rtp/239.10.0.62:1025
 http://10.1.1.1:10245/rtp/239.10.0.63:1025
 #EXTINF:-1 ,广东公共
 http://10.1.1.1:10245/rtp/239.11.0.80:1025
+#EXTINF:-1 ,广东新闻
+http://10.1.1.1:10245/rtp/239.10.0.199:1025
+#EXTINF:-1 ,佛山公共
+http://10.1.1.1:10245/rtp/239.11.0.114:1025
+#EXTINF:-1 ,佛山南海
+http://10.1.1.1:10245/rtp/239.11.0.115:1025
+#EXTINF:-1 ,佛山顺德
+http://10.1.1.1:10245/rtp/239.11.0.116:1025
+#EXTINF:-1 ,佛山影视
+http://10.1.1.1:10245/rtp/239.11.0.117:1025
+#EXTINF:-1 ,佛山综合
+http://10.1.1.1:10245/rtp/239.11.0.118:1025
+#EXTINF:-1 ,高清电影
+http://10.1.1.1:10245/rtp/239.11.0.129:1025
 #EXTINF:-1 ,CCTV-1 综合
 http://10.1.1.1:10245/rtp/239.10.0.48:1025
-#EXTINF:-1 ,CCTV-5+
-http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-#EXTINF:-1 ,CCTV-6
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
-#EXTINF:-1 ,CCTV-8
-http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
-#EXTINF:-1 ,CCTV-15
-http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 ,CCTV-6 电影
+http://10.1.1.1:10245/rtp/239.10.0.103:1025
 #EXTINF:-1 ,CCTV5
 http://10.1.1.1:10245/rtp/239.10.0.102:1025
-#EXTINF:-1 ,爱上4K频道
-http://10.1.1.1:10245/rtp/239.11.0.26:1025
+#EXTINF:-1 ,CCTV5+体育
+http://10.1.1.1:10245/rtp/239.10.0.213:1025
+#EXTINF:-1 ,CCTV16 4K
+http://10.1.1.1:10245/rtp/239.11.0.127:1025
 #EXTINF:-1 ,北京卫视
 http://10.1.1.1:10245/rtp/239.10.0.131:1025
-#EXTINF:-1 ,天津卫视
-http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 ,浙江卫视 超清
 http://10.1.1.1:10245/rtp/239.10.0.50:1025
-#EXTINF:-1 ,江苏卫视（超清）
-http://10.1.1.1:10245/rtp/239.10.0.51:1025
+#EXTINF:-1 ,浙江卫视 高清
+http://10.1.1.1:10245/rtp/239.10.0.179:1025
+#EXTINF:-1 ,江苏卫视
+http://10.1.1.1:10245/rtp/239.10.0.180:1025
 #EXTINF:-1 ,湖南卫视
 http://10.1.1.1:10245/rtp/239.10.0.49:1025
 #EXTINF:-1 ,广东卫视
 http://10.1.1.1:10245/rtp/239.10.0.45:1025
-#EXTINF:-1 ,广东综艺
+#EXTINF:-1 ,广东综艺4K
 http://10.1.1.1:10245/rtp/239.10.0.64:1025
-#EXTINF:-1 ,CHC电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 ,CHC动作电影
-http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
-#EXTINF:-1 ,CHC电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 ,香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 ,星空卫视
-http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=234&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,NewTV超级体育FHD
-http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-#EXTINF:-1 ,NewTV动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,NewTV海外剧场
-http://117.169.119.199:8080/live/xiqumd/index.m3u8
 #EXTINF:-1 ,广东影视
 http://10.1.1.1:10245/rtp/239.11.0.79:1025
 #EXTINF:-1 ,广东综艺
 http://10.1.1.1:10245/rtp/239.10.0.74:1025
-#EXTINF:-1 ,NEW广东
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:-1 ,IPTV5+
-http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
-#EXTINF:-1 ,吉林影视
-http://stream1.jlntv.cn/yspd/sd/live.m3u8
-#EXTINF:-1 ,浙江影视娱乐FHD
-http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
-#EXTINF:-1 ,杭州影视FHD
-http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
-#EXTINF:-1 ,高台电视台
-http://117.156.28.119/270000001111/1110000146/index.m3u8
-#EXTINF:-1 ,江苏影视
-http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1 ,凤凰中文台
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 ,凤凰电影
-https://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:-1 ,香港電台視像新聞直播
-https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-#EXTINF:-1 ,澳门卫视
-http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 ,澳门卫视
-http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,凤凰中文
-http://117.169.120.138:8080/live/fhchinese/.m3u8
-#EXTINF:-1 ,精彩体育
-http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8?epg=cntv-cctv5?回看=http://39.134.24.193/PLTV/88888888/224/3221225809/index.m3u8
-#EXTINF:-1 ,香港开电视
-https://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 ,tvb新闻
-https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 ,港台电视32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1 ,澳視衛視
-http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳视澳门
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 ,澳视资讯
-http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 ,澳门2台
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 ,澳门3台
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 ,澳门-MACAU
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳门卫星
-http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳门综艺
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,澳门资讯
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sport3
-https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 ,Fox Sport2
-https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 ,广州
+http://10.1.1.1:10245/rtp/239.11.0.138:1025
+#EXTINF:-1 ,广州新闻
+http://10.1.1.1:10245/rtp/239.11.0.139:1025
+#EXTINF:-1 ,广州影视
+http://10.1.1.1:10245/rtp/239.11.0.140:1025
+#EXTINF:-1 ,广州竞赛
+http://10.1.1.1:10245/rtp/239.11.0.142:1025
+#EXTINF:-1 ,广东少儿
+http://10.1.1.1:10245/rtp/239.11.0.81:1025
+#EXTINF:-1 ,广东嘉佳卡通
+http://10.1.1.1:10245/rtp/239.10.0.200:1025
+#EXTINF:-1 ,CCTV-14 少儿
+http://10.1.1.1:10245/rtp/239.10.0.212:1025
+#EXTINF:-1 ,金鹰卡通
+http://10.1.1.1:10245/rtp/239.11.0.125:1025
 #EXTINF:-1 ,咪咕五大联赛4K-1
 http://10.1.1.1:10245/rtp/239.10.0.68:1025
 #EXTINF:-1 ,咪咕-高清赛事1
@@ -159,18 +111,18 @@ http://10.1.1.1:10245/rtp/239.11.0.9:1025
 http://10.1.1.1:10245/rtp/239.11.0.10:1025
 #EXTINF:-1 ,咪咕-高清赛事20
 http://10.1.1.1:10245/rtp/239.11.0.11:1025
+#EXTINF:-1 ,咪咕-高清赛事21
+http://10.1.1.1:10245/rtp/239.11.0.12:1025
+#EXTINF:-1 ,咪咕-高清赛事22
+http://10.1.1.1:10245/rtp/239.11.0.13:1025
+#EXTINF:-1 ,咪咕-高清赛事23
+http://10.1.1.1:10245/rtp/239.11.0.14:1025
+#EXTINF:-1 ,咪咕-高清赛事24
+http://10.1.1.1:10245/rtp/239.11.0.15:1025
+#EXTINF:-1 ,咪咕-高清赛事25
+http://10.1.1.1:10245/rtp/239.11.0.16:1025
 #EXTINF:-1 ,珠海
 http://10.1.1.1:10245/rtp/239.10.0.242:1025
-#EXTINF:-1 ,Fox Sports 2 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 ,Fox Sports 1 Asia
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 ,BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,百视通高清直播室101
-http://10.1.1.1:10245/rtp/239.10.0.90:1025
-#EXTINF:-1 ,壹新聞
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1 ,中天新聞
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 ,中视新聞
@@ -181,21 +133,23 @@ http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 ,三立新闻
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 ,民视新聞台
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 ,華视新聞資訊
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 ,東森新聞
-http://seb.sason.top/sc/dsxw_fhd.m3u
 #EXTINF:-1 ,J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81） (1080p)
+#EXTINF:-1 ,TVB
 http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 ,TVB (2)
+http://206.119.173.184/tv/js.php?id=4
 #EXTINF:-1 ,港台電視31
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 ,ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 ,鳳凰衛視中文台
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 ,亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,五星体育
+http://iptv.tvfix.org/hls/wxtyhd.m3u8
+#EXTINF:-1 ,劲爆体育
+http://iptv.tvfix.org/hls/jbtyhd.m3u8
+#EXTINF:-1 ,翡翠台
+http://iptv.tvfix.org/hls/jadenhk.m3u8
+#EXTINF:-1 ,无线新闻台
+http://iptv.tvfix.org/hls/inews.m3u8
